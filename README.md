@@ -1,22 +1,23 @@
 # Hi, I'm Dayana Rojas Pérez 👋
 
-## Junior DevOps / Cloud Engineer | Full-Stack Developer
+## Software Developer | Academic Management Systems | Cloud-Native & DevOps Portfolio
 
-I am building a portfolio focused on **DevOps, Cloud Engineering, Kubernetes, AWS, Terraform, Linux, CI/CD, Networking, Security, and Observability**.
+I am building a technical and academic portfolio focused on **software development, academic management systems, cloud-native applications, DevOps practices, infrastructure automation, and digital transformation**.
 
-I also have full-stack experience building real academic management systems and web applications using **Laravel, Vue.js, MySQL, REST APIs, Docker, and deployment workflows**.
+My work combines **full-stack development** with **cloud and DevOps technologies**, including Laravel, Vue.js, Go, Docker, Kubernetes, AWS, Terraform, CI/CD, Linux, Networking, and Observability.
+
+A significant part of my portfolio is dedicated to **academic management systems**, including my diploma thesis project and related applications designed to improve document management, institutional workflows, traceability, and academic processes.
 
 ---
 
-## Main Professional Focus
+## Main Areas of Work
 
-- Junior DevOps Engineer
-- Junior Cloud Engineer
-- Junior Platform Engineer
-- Cloud Support Engineer
-- Infrastructure / Linux Support Engineer
-- Full-Stack Developer with DevOps/Cloud skills
-
+- Academic Management Systems
+- Full-Stack Web Development
+- Cloud-Native Application Deployment
+- DevOps and Infrastructure Automation
+- Linux, Networking, and Security Fundamentals
+- Kubernetes, AWS, Terraform, and CI/CD
 ---
 
 # Featured DevOps / Cloud Projects
