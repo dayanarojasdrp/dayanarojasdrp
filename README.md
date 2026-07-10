@@ -1,6 +1,6 @@
 # Hi, I'm Dayana Rojas Pérez 👋
 
-## Software Developer | Academic Management Systems | Cloud-Native & DevOps Portfolio
+## Software Developer | Academic Management Systems | Cloud-Native Applications & DevOps Practices
 
 I am building a technical and academic portfolio focused on **software development, academic management systems, cloud-native applications, DevOps practices, infrastructure automation, and digital transformation**.
 
@@ -28,7 +28,7 @@ A significant part of my portfolio is dedicated to **academic management systems
 
 Production-style Kubernetes platform using **Helm, Ingress, TLS, HPA, ConfigMaps, Secrets, Network Policies, Persistent Volumes, Rolling Updates, and GitOps with ArgoCD**.
 
-This is my main final DevOps/Platform Engineering portfolio project.
+This is a hands-on project designed to integrate Kubernetes, DevOps practices, infrastructure automation, and cloud-native application deployment.
 
 ---
 
@@ -180,7 +180,7 @@ Git · GitHub · Bash · Linux CLI · Docker CLI · kubectl · Terraform CLI · 
 
 My profile has two main goals:
 
-## DevOps / Cloud Career Portfolio
+## Cloud, Infrastructure and DevOps Projects
 
 Projects focused on Kubernetes, AWS, Terraform, CI/CD, Linux, Networking, Security, and Observability.
 
@@ -190,8 +190,10 @@ Projects related to my diploma thesis, academic management systems, and real-wor
 
 ---
 
-# Current Goal
+# Current Focus
 
-I am currently preparing to apply for junior roles in **DevOps, Cloud Engineering, Infrastructure, and Full-Stack Development with strong DevOps/Cloud skills**.
+I am currently strengthening my technical and academic profile through projects that combine **academic management systems, full-stack development, cloud-native architecture, DevOps practices, and infrastructure automation**.
+
+My goal is to continue developing practical experience in software engineering, digital transformation, and modern cloud-based systems.
 
 GitHub: [dayanarojasdrp](https://github.com/dayanarojasdrp)
