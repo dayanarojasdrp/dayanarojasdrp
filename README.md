@@ -1,4 +1,4 @@
-# Hi, I'm Dayana Rojas Pérez 👋
+#  I'm Dayana Rojas Pérez 
 
 ## Software Developer | Academic Management Systems | Cloud-Native Applications & DevOps Practices
 
